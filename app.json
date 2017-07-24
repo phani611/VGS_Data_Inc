@@ -1,0 +1,11 @@
+{
+  "name": "DataIncProject",
+  "description": "DataInc Project to deploy on Heroku",
+  "repository": "https://github.com/phani611/VGS_Data_Inc.git",
+  "env": {
+    "IPYTHON_PASSWORD": {
+      "required": false
+    }
+    }
+  }
+}
